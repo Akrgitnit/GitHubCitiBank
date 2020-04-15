@@ -7,6 +7,6 @@ public class f2checkout {
 		System.out.println("X local method:::");
 	}
 
-	}
+}
 
 
